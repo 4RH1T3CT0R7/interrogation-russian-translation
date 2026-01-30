@@ -1,0 +1,30 @@
+-- luacheck: no max line length
+return {
+
+  ["level_test_alex.1"] = "Они тяжело дышат, удивленные и недовольные.",
+  ["level_test_alex.2"] = "Они стонут от боли и смотрят на вас испуганным взглядом.",
+  ["level_test_alex.3"] = "Они задыхаются, зовя на помощь.",
+  ["level_test_alex.4"] = "Они кричат от боли, настаивая на своей невиновности.",
+  ["level_test_alex.5"] = "Давайте поговорим о чем-нибудь другом.",
+  ["level_test_alex.6"] = "Переход в безумие",
+  ["level_test_alex.7"] = "Переход к нормальной жизни",
+  ["level_test_alex.8"] = "smile_crazy",
+  ["level_test_alex.9"] = "кивок_сумасшедшего",
+  ["level_test_alex.10"] = "headshake_crazy",
+  ["level_test_alex.11"] = "multi_nod_crazy",
+  ["level_test_alex.12"] = "смотреть_вдаль_безумно",
+  ["level_test_alex.13"] = "multi_nod",
+  ["level_test_alex.14"] = "пожать плечами",
+  ["level_test_alex.15"] = "улыбка",
+  ["level_test_alex.16"] = "отвращение",
+  ["level_test_alex.17"] = "покачать головой",
+  ["level_test_alex.18"] = "сердитый",
+  ["level_test_alex.19"] = "кивнуть",
+  ["level_test_alex.20"] = "nod_long",
+  ["level_test_alex.21"] = "смотреть_вдаль",
+  ["level_test_alex.22"] = "Я понятия не имею, о чем вы говорите.",
+  ["level_test_alex.23"] = "Они смотрят вам в глаза, возможно, немного волнуясь.",
+  ["level_test_alex.24"] = "Хорошо.",
+  ["level_test_alex.25"] = "Они кивают.",
+
+}

@@ -1,0 +1,30 @@
+-- luacheck: no max line length
+return {
+
+  ["level_test_helene.1"] = "Они тяжело дышат, удивленные и недовольные.",
+  ["level_test_helene.2"] = "Они стонут от боли и смотрят на вас испуганным взглядом.",
+  ["level_test_helene.3"] = "Они задыхаются, зовя на помощь.",
+  ["level_test_helene.4"] = "Они кричат от боли, настаивая на своей невиновности.",
+  ["level_test_helene.5"] = "Давайте поговорим о чем-нибудь другом.",
+  ["level_test_helene.6"] = "в ужасе",
+  ["level_test_helene.7"] = "кивнуть",
+  ["level_test_helene.8"] = "йога_позиция",
+  ["level_test_helene.9"] = "покачать головой",
+  ["level_test_helene.10"] = "пожать плечами",
+  ["level_test_helene.11"] = "отвращение",
+  ["level_test_helene.12"] = "shrug_sign",
+  ["level_test_helene.13"] = "shrug_plus_sign",
+  ["level_test_helene.14"] = "из",
+  ["level_test_helene.15"] = "расстроенный",
+  ["level_test_helene.16"] = "грустный",
+  ["level_test_helene.17"] = "улыбка",
+  ["level_test_helene.18"] = "знак хедшейка",
+  ["level_test_helene.19"] = "хэдшейк_плюс_знак",
+  ["level_test_helene.20"] = "Я понятия не имею, о чем вы говорите.",
+  ["level_test_helene.21"] = "Они смотрят вам в глаза, возможно, немного волнуясь.",
+  ["level_test_helene.22"] = "Хорошо.",
+  ["level_test_helene.23"] = "Они кивают.",
+  ["level_test_helene.24"] = "Вы делаете эти нелепые вещи, это отвратительно, как ад",
+  ["level_test_helene.25"] = "Хахаха",
+
+}

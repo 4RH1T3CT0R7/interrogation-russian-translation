@@ -1,0 +1,30 @@
+# Build artifacts
+src/Installer/bin/
+src/Installer/obj/
+src/Installer/data.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp
+*.bak
+*.backup
+nul
+
+# Built installer (upload to GitHub Releases, not to repo)
+InterrogationRussian-Setup.exe
+
+# Release archives
+Interrogation_Russian_*.zip
