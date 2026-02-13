@@ -1,4 +1,4 @@
-# Interrogation: You will be deceived — Русификатор
+# Interrogation: You will be deceived - Русификатор
 
 Полная русская локализация для игры **Interrogation: You will be deceived** (Critique Gaming / Mixtvision).
 
